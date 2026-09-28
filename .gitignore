@@ -1,0 +1,17 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Legacy analysis archive and OS metadata
+Data/OutputOld/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+memorabilia_type,checked_house,N,median_ape_pct,median_bias_pct,within_20_pct,below_range_pct,in_range_pct,above_range_pct
+Automotive,Bonhams,45,36.36,36.36,26.67,64.44,26.67,8.89
+Automotive,Christies,45,35.58,-1.57,37.78,28.89,40.0,31.11
+Automotive,Freemans,2,32.34,-2.62,0.0,0.0,50.0,50.0
+Automotive,Sothebys,27,37.5,-11.76,18.52,25.93,25.93,48.15
+Pop Culture,Bonhams,145,37.5,25.0,33.79,46.21,38.62,15.17
+Pop Culture,Christies,255,45.37,-21.26,23.14,22.35,24.31,53.33
+Pop Culture,Freemans,41,52.94,16.88,21.95,36.59,34.15,29.27
+Pop Culture,Sothebys,565,42.86,13.64,23.36,38.76,29.73,31.5
+Sports,Christies,28,57.53,-57.53,17.86,0.0,25.0,75.0
+Sports,Freemans,1012,29.96,6.9,33.1,25.4,47.33,27.27
+Sports,Sothebys,195,56.25,40.0,18.97,54.36,29.74,15.9

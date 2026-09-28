@@ -1,0 +1,11 @@
+measure,value
+raw_rows,43530
+conflicting_urls,134
+unique_lots_retained,39976
+positive_hammer_lots,31127
+valid_estimate_lots,37632
+analysis_lots,29095
+analysis_lots_missing_date,92
+explicitly_sold,7738
+explicitly_unsold,1896
+status_missing,30342

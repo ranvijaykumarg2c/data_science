@@ -1,0 +1,24 @@
+sport,checked_house,N,median_ape_pct,median_bias_pct,within_20_pct,below_range_pct,in_range_pct,above_range_pct
+Baseball,Christies,5,11.42,-9.15,60.0,0.0,80.0,20.0
+Baseball,Freemans,639,26.83,0.0,37.25,21.75,49.92,28.33
+Baseball,Sothebys,8,48.7,38.1,12.5,62.5,25.0,12.5
+Basketball,Freemans,206,31.15,5.83,31.07,23.3,47.57,29.13
+Basketball,Sothebys,140,61.82,47.92,18.57,55.71,30.71,13.57
+Boxing,Christies,4,36.0,-17.89,25.0,0.0,50.0,50.0
+Boxing,Freemans,4,27.79,12.46,50.0,50.0,25.0,25.0
+Football,Freemans,98,36.5,25.0,14.29,43.88,28.57,27.55
+Football,Sothebys,2,47.99,-5.13,0.0,50.0,0.0,50.0
+Golf,Christies,2,89.22,-89.22,0.0,0.0,0.0,100.0
+Golf,Freemans,6,48.17,23.48,0.0,0.0,66.67,33.33
+Golf,Sothebys,2,21.35,-11.98,50.0,0.0,50.0,50.0
+Hockey,Christies,1,49.61,-49.61,0.0,0.0,0.0,100.0
+Hockey,Freemans,33,36.59,30.08,30.3,45.45,45.45,9.09
+Hockey,Sothebys,6,153.57,153.57,16.67,66.67,33.33,0.0
+Mixed Martial Arts,Freemans,1,95.12,95.12,0.0,100.0,0.0,0.0
+Soccer,Freemans,2,18.54,18.54,100.0,0.0,100.0,0.0
+Tennis,Sothebys,7,525.0,525.0,0.0,100.0,0.0,0.0
+Track and Field,Christies,1,64.57,-64.57,0.0,0.0,0.0,100.0
+,Bonhams,190,36.93,26.14,32.11,50.53,35.79,13.68
+,Christies,315,45.37,-21.26,24.44,22.22,25.71,52.06
+,Freemans,66,46.34,21.95,21.21,36.36,40.91,22.73
+,Sothebys,622,42.86,13.64,23.31,38.1,29.74,32.15
